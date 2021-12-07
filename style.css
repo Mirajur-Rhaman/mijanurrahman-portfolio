@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&family=Poppins:ital@1&display=swap");
+
+.btn-hover:hover {
+  background-color: rgb(100, 177, 240) !important;
+  color: white !important;
+}
+.img-width {
+  width: 300px;
+}
+.round-circle {
+  border-radius: 10%;
+}
+.btn-active {
+  background-color: rgb(166, 221, 228);
+}
+/* .title-bg {
+  background-color: rgb(178, 241, 246);
+} */
+.section-bg {
+  background-color: rgb(241, 235, 235);
+}
+.link-hover:hover {
+  background-color: white;
+}
+.section-bg-2 {
+  background-color: #b1ebe1;
+}
+.text-color {
+  color: rgb(16, 80, 139);
+}
+.pdt-1 {
+  padding-top: 35px;
+}
+.logo-font {
+  font-family: Pacifico;
+}
+.footer {
+  text-align: center;
+  background-color: rgb(242, 251, 251);
+  color: rgb(30, 33, 34);
+  padding: 20px;
+  font-weight: 700;
+  margin-top: 30px;
+}
+.num-color {
+  color: rgb(149, 65, 117);
+}
